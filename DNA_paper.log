@@ -1,19 +1,20 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-160201-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.9.12)  23 FEB 2017 15:20
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2017.1.10)  23 FEB 2017 15:49
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./DNA_paper.tex
+**DNA_paper.tex
 (./DNA_paper.tex
-pLaTeX2e <2016/09/08> (based on LaTeX2e <2016/03/31> patch level 3)
+pLaTeX2e <2016/11/29> (based on LaTeX2e <2016/03/31> patch level 3)
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 
 LaTeX Warning: File `example.eps' already exists on the system.
                Not generating it from this source.
 
-(c:/w32tex/share/texmf-dist/tex/latex/base/fix-cm.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 
-(c:/w32tex/share/texmf-dist/tex/latex/base/ts1enc.def
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )) (./svjour3.cls
 Document Class: svjour3 2010/11/25 v3.3 
@@ -82,25 +83,25 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 157.
 \figgap=\dimen128
 \bibindent=\dimen129
 \@tempcntc=\count107
-) (c:/w32tex/share/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/w32tex/share/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(c:/w32tex/share/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/w32tex/share/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(c:/w32tex/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: dvips.def on input line 99.
 
-(c:/w32tex/share/texmf-dist/tex/latex/graphics-def/dvips.def
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-def/dvips.def
 File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
 ))
 \Gin@req@height=\dimen130
@@ -151,50 +152,37 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 93.
-(./Oritatami_system.tex)
-
-LaTeX Warning: Citation `RefB' on page 1 undefined on input line 110.
-
-
-LaTeX Warning: Citation `RefJ' on page 1 undefined on input line 110.
-
-
-LaTeX Warning: Reference `sec:1' on page 1 undefined on input line 114.
-
+(./Oritatami_system.tex) (./heigh_way_dragon.tex) [1]
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 115.
+(Font)              using `JT1/mc/m/n' instead on input line 116.
 
 
 LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 115.
+(Font)              using `JY1/mc/m/n' instead on input line 116.
 
-[1]
 File: example.eps Graphic file (type eps)
- <example.eps>
+<example.eps>
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <8> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 126.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 127.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <8> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 126.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 127.
 File: example.eps Graphic file (type eps)
  <example.eps> [2] [3] (./DNA_paper.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 1298 strings out of 493680
- 18626 string characters out of 6151468
+ 1299 strings out of 493683
+ 18783 string characters out of 6149653
  73888 words of memory out of 5000000
- 4897 multiletter control sequences out of 15000+600000
+ 4895 multiletter control sequences out of 15000+600000
  16737 words of font info for 64 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,7n,20p,218b,301s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 25i,7n,20p,216b,301s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on DNA_paper.dvi (3 pages, 3020 bytes).
+Output written on DNA_paper.dvi (3 pages, 3088 bytes).
