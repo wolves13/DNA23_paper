@@ -1,2 +1,21 @@
-\section{Oritatami system}
-about some definition
+\input setting.tex
+\begin{document}
+\section{preliminaries}
+Let $\Sigma$ be a set of bead types, and $\Sigma^*$ be the set of finite strings of beads.
+Let $w = a_1 ,...,a_n$ be a string of length $n$ for some integer $n$ and bead types $a_1,...,a_n \in \Sigma$.
+The $length$ of $w$ is expressed by $|w|$. 
+For two indices $i,j$ with $1\leq i \leq j \leq n$, we let $w[i,j]$ refer to the substring $a_i a_{i+1} \cdots a_{j-1} a_{j}$.
+if $i=j$, then we express $w[i,i]$ by $w[i]$.
+
+Oritatami systems operate on the hexagonal lattice. 
+The $grid graph$ of lattice is the graph whose vertexes correspond to the lattice points and connected if the corresponding lattice points are at unit distance hexagonally.
+For a point $p$ and a bead type $a \in \Sigma$, we call the pair (p,a) an $annotated point$,
+or simply a $point$ if being annotated is clear from context.
+Two annotated point $(p,a),(q,b)$ are $adjacent$ if $pq$ is an edge of the grid graph.
+
+A $path$ is a sequence $P = p_1 p_2 \cdots p_n$ of $pairwise-distinct$ points $p_1,p_2,\cdots,p_n$
+ such that $p_i p_{i+1}$ is at unit distance for all $1 \leq i \leq n$. Given a string $ w \in \Sigma^*$ of bead types of length $n$, a $path annotated by w$, or simply $w-path$, is asequence $P_w$ of annotated points $(p_1,w[1]),\cdots,(p_n,w[n])$, where $p_1 \cdots p_n$ is a path. Annotated points of the $w$-path  
+\subsection{Oritatami System}
+
+
+\end{document}
